@@ -72,3 +72,11 @@ h1 {
     text-decoration: none;
     color: inherit;
 }
+
+.card .thumbnail {
+    margin-bottom: 15px;
+}
+
+.small-thumbnail {
+    height: 120px;
+}
